@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "biJhQlQNGs4rdmZ7/s305IRXWluB19NQGOZTx0oyyYafjdCZv670ZWAoX9/u2ezLokcWcS7peandVLYV2RjWMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\richa\\OneDrive\\Documents\\Code\\romain_kata\\CSharpAlgo\\CSharpAlgo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
